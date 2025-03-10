@@ -13,7 +13,7 @@ Exploratory Data Analysis
 
 
 ## Tools & Libraries
-- Python
+- Python. 
 - Pandas
 - NumPy
 - Matplotlib
