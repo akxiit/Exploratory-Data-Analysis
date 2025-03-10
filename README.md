@@ -41,7 +41,7 @@ cd EDA-Repo
 ```bash
 pip install -r requirements.txt
 ```
-
+  
 ### Run Jupyter Notebook
 ```bash
 jupyter notebook
