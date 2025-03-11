@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA)
+ # Exploratory Data Analysis (EDA)
 
 ## Overview
 This repository contains exploratory data analysis (EDA) projects on various datasets. EDA helps uncover patterns, trends, and insights from raw data before applying machine learning models or making business decisions.
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ### Run Jupyter Notebook
 ```bash
 jupyter notebook
-```
+```  
 
 ## Example Notebooks
 Check the `notebooks/` directory for EDA examples on different datasets.
