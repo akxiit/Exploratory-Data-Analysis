@@ -17,7 +17,7 @@ Exploratory Data Analysis
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+- Seaborn 
 - Plotly (Optional)
 - Scikit-learn (Optional)
 
