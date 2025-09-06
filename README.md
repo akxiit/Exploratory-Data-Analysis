@@ -15,7 +15,7 @@ Exploratory Data Analysis
 ## Tools & Libraries
 - Python. 
 - Pandas 
-- NumPy 
+- NumPy  
 - Matplotlib
 - Seaborn 
 - Plotly (Optional)
